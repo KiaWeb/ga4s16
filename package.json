@@ -1,0 +1,18 @@
+{
+  "name": "ga4s16",
+  "version": "1.0.0",
+  "description": "fuck this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lol",
+    "ga4s"
+  ],
+  "author": "IdiotKid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
